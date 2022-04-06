@@ -1,0 +1,2 @@
+C:\Users\WIN10\Desktop\חני-תכנות\irox\c++\C++Lesson3\Debug\C++Lesson3.exe
+C:\Users\WIN10\Desktop\חני-תכנות\irox\c++\C++Lesson3\Debug\C++Lesson3.pdb
