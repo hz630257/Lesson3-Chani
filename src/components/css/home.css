@@ -1,0 +1,94 @@
+.css-1gsv261 {
+    width: 100%;
+    top:0;
+    position: fixed;
+    background-color: #ffffffc4;
+}
+    
+.cards{
+    width: 50% !important;
+    margin:2%;
+    justify-content: center;
+}
+
+body{
+    background-color: #e0f0ff;
+}
+
+.button{
+    position: fixed!important;
+    right: 2%!important;
+    width: 21%!important;
+    height: 7%!important;
+    margin-top: 22%!important;
+    font-weight: 600!important;
+}
+
+.buttons-group{
+    top: 0;
+    position: fixed;
+    background-color: #fdfbff;
+    border-left: #b5b5b5 solid 4px;
+    height: 100%;
+    width: 25%;
+    right: 0;
+}
+
+.search{
+    margin-top: -2%!important;
+    width: 16%!important;
+}
+
+.clear{
+    width: 5%!important;
+    height: 9%!important;
+    margin-top: -2%!important;
+    margin-right: 16%!important;
+}
+.refresh{
+    margin-top: 30% !important;
+}
+
+.sort{
+    margin-top: 34%!important;
+}
+
+.css-1gjgmky-MuiToggleButtonGroup-root .MuiToggleButtonGroup-grouped{
+    width: 50%!important;
+}
+
+.changeView{
+    bottom: 10%!important;
+    position: fixed!important;
+    right: 2%!important;
+    height: 7%!important;
+    font-weight: 600!important;
+}
+
+.search,.clear{
+    top: 58% !important;
+    display: flex;
+}
+
+.contents{
+    width: 70%; 
+    margin-top: 6%;
+    margin-left: -1%!important;
+}
+
+.contents .css-vfopuw-MuiPaper-root-MuiCard-root{
+    margin-bottom:15px  !important;
+    margin-top:15px  !important;
+
+
+}
+
+.cardList{
+   margin-top: 10%;
+   margin-left: 17%;
+}
+h1{
+    margin-right: 25%;
+    color: dimgray;
+    font-size: large;
+}
